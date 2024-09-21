@@ -1,7 +1,5 @@
 Project Name(Proje İsmi)
 RandomOptionSelector (Rastgele Seçenek Seçici)
-https://www.onlinegdb.com/online_java_compiler
-
 ----------------------------------------
 
 RandomOptionSelector
@@ -18,7 +16,11 @@ How to Use? (Nasıl Kullanılır?)
 English: 
 To use:
 You can use the code in the file named "Main.java" in online editors or in your own project by copying and pasting it into the Main.java file.
+Recommended Online Editor:
+https://www.onlinegdb.com/online_java_compiler
 
 Türkçe:
 Kullanım:
 "Main.java" adlı dosyadaki kodu, online editörlerde veya kendi projenizdeki Main.java dosyasına kopyala yapıştır yaparak kullanabilirsiniz
+Önerilen Çevrimiçi Editör:
+https://www.onlinegdb.com/online_java_compiler
