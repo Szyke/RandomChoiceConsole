@@ -1,6 +1,7 @@
 Project Name(Proje İsmi)
 RandomOptionSelector (Rastgele Seçenek Seçici)
 
+----------------------------------------
 
 RandomOptionSelector
 (Rastgele Seçenek Seçici) What is the use of it?(Ne işe yarar?)
@@ -9,6 +10,7 @@ English: "A simple console application that allows users to input a number of op
 
 Türkçe: "Kullanıcının bir dizi seçenek girmesine ve bunlardan rastgele birini seçmesine olanak tanıyan basit bir konsol uygulaması."
 
+----------------------------------------
 
 How to Use? (Nasıl Kullanılır?)
 English: 
