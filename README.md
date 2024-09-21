@@ -1,4 +1,4 @@
-Proje İsmi
+Project Name(Proje İsmi)
 
 RandomOptionSelector (Rastgele Seçenek Seçici)
 
@@ -9,7 +9,8 @@ English: "A simple console application that allows users to input a number of op
 
 Türkçe: "Kullanıcının bir dizi seçenek girmesine ve bunlardan rastgele birini seçmesine olanak tanıyan basit bir konsol uygulaması."
 
-English: Use;
+English: 
+Use;
 Click on the folder named "/src/main/java/org/example". You can run and use the code in the file named "Main.java" in the editor.
 
 Türkçe:
