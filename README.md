@@ -1,5 +1,4 @@
 Project Name(Proje İsmi)
-
 RandomOptionSelector (Rastgele Seçenek Seçici)
 
 
