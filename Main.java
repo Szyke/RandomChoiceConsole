@@ -1,5 +1,5 @@
-//Main.java dosyası org.example klasörünün içinde bulunuyorsa bu kodu ekleyin :  package org.example;
-//If the main.java file is located in the org.example folder, add this code: package org.example;
+//Kodu kendi Main.Java dosyanızda kullanacaksınız. Bu kodu en üst satıra yapıştırın. Kod: package org.example;   Çevrimiçi bir düzenleyici kullanıyorsanız koda dokunmayın.
+//You will use the code in your own Main.Java file. Paste this code on the top line. Code: package org.example;  If you're using an online editor, don't touch the code.
 import java.util.Scanner;
 import java.util.Random;
 
