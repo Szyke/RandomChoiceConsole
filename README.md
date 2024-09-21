@@ -15,9 +15,9 @@ Türkçe: "Kullanıcının bir dizi seçenek girmesine ve bunlardan rastgele bir
 How to Use? (Nasıl Kullanılır?)
 
 English: 
-Use; 
-Click on the folder named "/src/main/java/org/example". You can run and use the code in the file named "Main.java" in the editor.
+To use:
+You can use the code in the file named "Main.java" in online editors or in your own project by copying and pasting it into the Main.java file.
 
 Türkçe:
-Kullanım;
-"/src/main/java/org/example" adlı klasöre tıklayın "Main.java" adlı dosyadaki kodu editörde çalıştırıp kullanabilirsiniz.
+Kullanım:
+"Main.java" adlı dosyadaki kodu, online editörlerde veya kendi projenizdeki Main.java dosyasına kopyala yapıştır yaparak kullanabilirsiniz
