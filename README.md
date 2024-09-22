@@ -30,8 +30,8 @@ Warning (Uyarı)
 
 Türkçe:
 
-Kodu kendi Main.Java dosyanızda kullanacaksınız. Bu kodu en üst satıra yapıştırın. 'Kod: package org.example;'  Çevrimiçi bir düzenleyici kullanıyorsanız koda dokunmayın.
+Kodu kendi Main.Java dosyanızda kullanacaksınız. Bu kodu en üst satıra yapıştırın. Kod: package org.example;  Çevrimiçi bir düzenleyici kullanıyorsanız koda dokunmayın.
 
 English:
 
-You will use the code in your own Main.Java file. Paste this code on the top line. 'Code: package org.example;' If you're using an online editor, don't touch the code.
+You will use the code in your own Main.Java file. Paste this code on the top line. Code: package org.example; If you're using an online editor, don't touch the code.
